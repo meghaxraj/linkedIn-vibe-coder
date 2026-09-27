@@ -1,0 +1,6 @@
+{
+  "name": "PostSpark - LinkedIn Event Amplifier",
+  "description": "AI-powered LinkedIn social post generator and campaign management studio for tech events, attendees, and speakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
